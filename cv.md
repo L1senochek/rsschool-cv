@@ -1,10 +1,10 @@
-header: Contacts
-        Summary
-        Skills
-        Education
-        Code
-        English
-        Projects
+header: 1) Contacts
+        2) Summary
+        3) Skills
+        4) Education
+        5) Code
+        6) English
+        7) Projects
 # Tatyana
 
 ## JUNIOR FRONT-END DEVELOPER
@@ -71,6 +71,6 @@ header: Contacts
 
 
 
-footer: 2022
-        github
-        rs_school
+footer: 1) 2022
+        2) github
+        3) rs_school
